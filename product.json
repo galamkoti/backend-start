@@ -1,0 +1,34 @@
+[
+    {
+        "name":"iQOO",
+        "price":7998,
+        "rating":4.6,
+        "quantity":56,
+        "createdAt":"2023-3-2",
+        "company":"apple"
+    },
+    {
+        "name":"iphone",
+        "price":7998,
+        "rating":4.6,
+        "quantity":56,
+        "createdAt":"2023-3-2",
+        "company":"wipro"
+    },
+    {
+        "name":"samsung",
+        "price":7998,
+        "rating":4.6,
+        "quantity":56,
+        "createdAt":"2023-3-2",
+        "company":"tcs"
+    },
+    {
+        "name":"case",
+        "price":7998,
+        "rating":4.6,
+        "quantity":56,
+        "createdAt":"2023-3-2",
+        "company":"tcs"
+    }
+]
